@@ -44,7 +44,7 @@ with
 
 ### Step 1 : Add the Cordova Watch Conduit to your application
 ```sh
-cordova plugin add http://http://github.com/ogoguel/cordova-apple-watch-conduit.git
+cordova plugin add http://github.com/ogoguel/cordova-apple-watch-conduit.git
 ```
 ### Step 2 : Enable the WatchKit Extension
 To support the Apple Watch, you need to add some additional targets to your XCode Project
